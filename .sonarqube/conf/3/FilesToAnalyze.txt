@@ -1,0 +1,9 @@
+﻿C:\Users\Harsh\source\repos\ConsoleApp1\ConsoleApp1Tests\ConsoleApp1Tests.cs
+C:\Users\Harsh\.nuget\packages\microsoft.net.test.sdk\16.11.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\Harsh\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\testhost.exe
+C:\Users\Harsh\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\testhost.dll
+C:\Users\Harsh\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Harsh\.nuget\packages\mstest.testadapter\2.2.7\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Harsh\.nuget\packages\mstest.testadapter\2.2.7\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Harsh\.nuget\packages\mstest.testadapter\2.2.7\build\netcoreapp1.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Harsh\.nuget\packages\mstest.testadapter\2.2.7\build\netcoreapp1.0\Microsoft.TestPlatform.AdapterUtilities.dll
